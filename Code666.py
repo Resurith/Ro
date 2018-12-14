@@ -1,5 +1,5 @@
 from math import exp, cos
-Salut
+Salut RO
 from numpy import *
 from scipy import *
 
